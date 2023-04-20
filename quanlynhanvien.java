@@ -19,7 +19,7 @@ public class Customer implements Serializable{
         this.DoanhSo = DoanhSo;
     }
 
-    hello
+    hello chào bạn
     
     public void setDoanhSo(double DoanhSo) {
         this.DoanhSo = DoanhSo;
